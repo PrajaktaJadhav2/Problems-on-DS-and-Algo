@@ -71,7 +71,7 @@ print(ans)
 # 1
 
 
-# Explanation : 0th and 2nd person both know 1. Therefore, 1 is the celebrity
+# Explanation : Person 1 doesn't know anyone. Therefore, 1 is the celebrity
 
 
 # Enter the number of people2
