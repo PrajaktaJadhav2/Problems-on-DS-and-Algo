@@ -1,3 +1,9 @@
+#Stickler the thief wants to loot money from a society having n houses in a single line.
+#He is a weird person and follows a certain rule when looting the houses. 
+#According to the rule, he will never loot two consecutive houses. 
+#At the same time, he wants to maximize the amount he loots.
+
+
 def FindMaxSum(arr,n):
     if n==1:
         return arr[0]
